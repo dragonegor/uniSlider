@@ -1,7 +1,7 @@
 # uniSlider
 alternative slick-slider on clear JS
 
-## dependencies
+## Dependencies
 Touch events work only with [hammer.js](https://github.com/hammerjs/hammer.js) plugin 
 
 ## Instalation 
