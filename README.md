@@ -16,3 +16,6 @@ const connectSlider = new Slider('.slider', {
     qtySlide: 3
 })
 ```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
