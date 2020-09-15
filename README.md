@@ -13,16 +13,16 @@ Create a basic HTML structure in your project
 
 ```html
 <div class="slider">
-        <div class="slide">
-            <p>1</p>
-        </div>
-        <div class="slide">
-            <p>2</p>
-        </div>
-        <div class="slide">
-            <p>3</p>
-        </div>
+    <div class="slide">
+        <p>1</p>
     </div>
+    <div class="slide">
+        <p>2</p>
+    </div>
+    <div class="slide">
+        <p>3</p>
+    </div>
+</div>
 ```
 
 
