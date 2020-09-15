@@ -5,15 +5,32 @@ alternative slick-slider on clear JS
 Touch events work only with [hammer.js](https://github.com/hammerjs/hammer.js) plugin 
 
 ## Instalation 
-Download the files from this reposetorie and connect to you project as js files
+Download the files from this repository and connect to your project as js files
 
 ## Usage
 
-Create new instance of Slider class and set options
+Create a basic HTML structure in your project
+
+```html
+<div class="slider">
+        <div class="slide">
+            <p>1</p>
+        </div>
+        <div class="slide">
+            <p>2</p>
+        </div>
+        <div class="slide">
+            <p>3</p>
+        </div>
+    </div>
+```
+
+
+Create a new instance of Slider class and set options
 
 ```javascript
 const connectSlider = new Slider('.slider', {
-    qtySlide: 3
+    qtySlide: 2
 })
 ```
 
