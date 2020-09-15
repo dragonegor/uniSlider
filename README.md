@@ -2,7 +2,7 @@
 alternative slick-slider on clear JS
 
 ## dependencies
-Touch events work only with hammer.js plugin 
+Touch events work only with [hammer.js](https://github.com/hammerjs/hammer.js) plugin 
 
 ## Instalation 
 Download the files from this reposetorie and connect to you project as js files
